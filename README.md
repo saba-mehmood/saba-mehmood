@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saba-mehmood
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter developers
+
 
 
 <!---
