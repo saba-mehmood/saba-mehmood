@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saba-mehmood
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning flutter
+- 👀 I’m QA Engineer(Manual+Automation)
+- 🌱 I’m currently learning skills
 
 
 
