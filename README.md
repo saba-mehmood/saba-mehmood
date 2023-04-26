@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @saba-mehmood
 - 👀 I’m QA Engineer(Manual+Automation)
-- 🌱 I have worked on Crypto exchange project as a QA, Andriod Apps and many more
+- 🌱 I have worked on Crypto exchange project as a QA
+- 🎃 Also Worked on FinTech project
+- 👻 Android apps, iOS apps, Website
 
 
 
