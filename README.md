@@ -3,6 +3,7 @@
 - 🌱 I have worked on Crypto exchange project as a QA
 - 🎃 Also Worked on FinTech project
 - 👻 Android apps, iOS apps, Website
+- 😊 Selenium, Playwright, pytest, POM structure
 
 
 
